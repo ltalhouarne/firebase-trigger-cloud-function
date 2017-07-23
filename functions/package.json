@@ -1,0 +1,10 @@
+{
+  "name": "firebase-trigger-email",
+  "description": "Send an email on a player's presence update",
+  "dependencies": {
+    "firebase-admin": "~4.2.1",
+    "firebase-functions": "^0.5.7",
+    "nodemailer": "^2.4.1"
+  },
+  "private": true
+}
